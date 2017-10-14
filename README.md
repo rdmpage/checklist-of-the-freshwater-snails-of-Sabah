@@ -2,7 +2,7 @@
 
 Data from A preliminary checklist of the freshwater snails of Sabah (Malaysian Borneo) deposited in the BORNEENSIS collection, Universiti Malaysia Sabah https://doi.org/10.3897/zookeys.673.12544
 
-![](https://github.com/rdmpage/checklist-of-the-freshwater-snails-of-Sabah/raw/master/oo_135871/files/537.1.jpg)
+![](https://github.com/rdmpage/checklist-of-the-freshwater-snails-of-Sabah/raw/master/screenshot.png)
 
 ## Google Earth file
 
